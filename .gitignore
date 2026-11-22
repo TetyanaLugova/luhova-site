@@ -1,0 +1,18 @@
+# Системне
+.DS_Store
+
+# Особисті фото (поки не використовуються на сайті)
+assets/tania.png
+assets/tania-bw.png
+
+# Старі файли й лого
+main.html
+style.css
+Лого-моє.png
+assets/logo.png
+
+# Резервні копії
+*.backup*
+
+# Чернетки (політика конфіденційності до запуску)
+_drafts/
